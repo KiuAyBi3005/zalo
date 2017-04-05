@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_left_right_top_register_relative_layout">10dp</dimen>
+    <dimen name="margin_left_right_top_register_edit_text">16dp</dimen>
+    <dimen name="margin_left_right_top_register_button">16dp</dimen>
+    <dimen name="margin_left_register_check_box">48dp</dimen>
+    <dimen name="margin_top_register_check_box">16dp</dimen>
+</resources>
